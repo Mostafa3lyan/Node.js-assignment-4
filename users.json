@@ -1,0 +1,20 @@
+[
+  {
+    "id": "c598c584-64e2-491a-8fb5-cc065bd3e296",
+    "username": "said",
+    "age": "30",
+    "email": "said@gmail.com"
+  },
+  {
+    "id": "25f96c06-f75f-4f64-9a1b-ea1a92b11a91",
+    "username": "mostafa",
+    "age": "26",
+    "email": "mostafa@gmail.com"
+  },
+  {
+    "id": "51a4a017-50e2-472e-8a26-fc982735cc6a",
+    "username": "mo",
+    "age": "20",
+    "email": "mo@gmail.com"
+  }
+]
